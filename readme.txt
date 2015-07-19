@@ -1,3 +1,1 @@
-creating a new branch is quick
-master
-append!
+这是一个测试，因为是第一次使用git推送到github中，感觉好紧张～～～
